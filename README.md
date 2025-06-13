@@ -74,7 +74,7 @@ This visual summarizes how Cloud Cover, Season, and Location relate to Weather T
 Boxplots show the distribution of features like temperature, humidity, and UV index for each weather type. Sunny weather has the highest temperatures and UV levels; snowy days are coldest with lowest visibility. Rainy conditions show the most precipitation and wind speed. These visuals highlight the numeric profiles of each class.
 
 <p align="center">
-  <img src="images/Correlation_Heatmap.png" alt="Correlation Heatmap" />
+  <img src="Images/Correlation_Heatmap.png" alt="Correlation Heatmap" />
 </p>
 
 This heatmap displays relationships among all features. Strong positive correlations exist between humidity and precipitation, temperature and pressure. Strong negative links are seen between cloud cover and visibility, and temperature and winter season. It helps identify which variables are most influential for modeling weather patterns.
