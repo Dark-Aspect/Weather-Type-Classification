@@ -99,7 +99,7 @@ This boxplot visualizes the cross-validation score distributions for the three m
 The confusion matrix image visually displays how well the Gradient Boosting Classifier predicted each weather class. The diagonal cells show a high number of correct predictions for Snowy, Cloudy, Rainy, and Sunny classes, while the off-diagonal cells reveal only a few misclassifications. This highlights the model’s strong accuracy and low error rate across all classes.
 
 <p align="center">
-  <img src="images/Feature_Importance_Ranking.png" alt="Feature Importance Ranking" />
+  <img src="Images/Feature_Importance_Ranking.png" alt="Feature Importance Ranking" />
 </p>
 
 The feature importance plot shows which input variables had the greatest influence on the model’s predictions. Temperature stands out as the most important factor, followed by UV Index, Visibility, and Cloud Cover. Less influential features like Season and Location are also shown, emphasizing the dominant role of direct weather measurements in the model’s decision-making.
