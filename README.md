@@ -68,7 +68,7 @@ Visual analysis showed clear patterns. Cloud Cover, Season, and Location influen
 This visual summarizes how Cloud Cover, Season, and Location relate to Weather Type. Overcast skies and winter months are clearly linked to snowy conditions, while clear skies dominate sunny days. Mountainous areas also show more snowy weather. This chart effectively displays how categorical features influence classification.
 
 <p align="center">
-  <img src="images/Boxplots.png" alt="Boxplots for Numerical Variables by Weather Type" />
+  <img src="Images/Boxplots.png" alt="Boxplots for Numerical Variables by Weather Type" />
 </p>
 
 Boxplots show the distribution of features like temperature, humidity, and UV index for each weather type. Sunny weather has the highest temperatures and UV levels; snowy days are coldest with lowest visibility. Rainy conditions show the most precipitation and wind speed. These visuals highlight the numeric profiles of each class.
