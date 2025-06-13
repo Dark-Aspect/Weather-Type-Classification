@@ -88,7 +88,7 @@ Using SQL, we identified how weather characteristics varied across categories. S
 After preprocessing and feature encoding, we tested three models: Gradient Boosting, Logistic Regression, and K-Nearest Neighbors. Gradient Boosting achieved the highest accuracy (95.35%) and outperformed others in F1-scores for all weather types. It showed the best balance of precision and recall, especially for Snowy and Sunny classes. While Logistic Regression and KNN also performed well, GB proved most stable and generalizable after cross-validation and error analysis.
 
 <p align="center">
-  <img src="images/Cross_Validation_Distribution.png" alt="Cross Validation Score Distribution" />
+  <img src="Images/Cross_Validation_Distribution.png" alt="Cross Validation Score Distribution" />
 </p>
 This boxplot visualizes the cross-validation score distributions for the three models used: KNN, Logistic Regression, and Gradient Boosting. It clearly shows that Gradient Boosting not only achieved the highest average score but also exhibited the least variation, indicating superior and consistent performance across all folds.
 
