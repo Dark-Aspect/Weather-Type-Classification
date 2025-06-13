@@ -93,7 +93,7 @@ After preprocessing and feature encoding, we tested three models: Gradient Boost
 This boxplot visualizes the cross-validation score distributions for the three models used: KNN, Logistic Regression, and Gradient Boosting. It clearly shows that Gradient Boosting not only achieved the highest average score but also exhibited the least variation, indicating superior and consistent performance across all folds.
 
 <p align="center">
-  <img src="images/Confusion_Matrix.png" alt="Confusion Matrix" />
+  <img src="Images/Confusion_Matrix.png" alt="Confusion Matrix" />
 </p>
 
 The confusion matrix image visually displays how well the Gradient Boosting Classifier predicted each weather class. The diagonal cells show a high number of correct predictions for Snowy, Cloudy, Rainy, and Sunny classes, while the off-diagonal cells reveal only a few misclassifications. This highlights the model’s strong accuracy and low error rate across all classes.
