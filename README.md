@@ -62,7 +62,7 @@ We began with 13,200 rows and 11 columns of weather data. Extreme values in temp
 Visual analysis showed clear patterns. Cloud Cover, Season, and Location influenced Weather Types significantly e.g., Snowy conditions align with overcast skies and winter. Temperature showed a multimodal pattern, while humidity followed a bell curve. Features like wind speed and visibility were skewed and improved with log transformations. Relationships between features highlighted that weather types are shaped by combinations of temperature, precipitation, cloud cover, and seasonality.
 
 <p align="center">
-  <img src="images/Countplots.png" alt="Count Plot for Categorical Variables vs Target" />
+  <img src="Images/Countplots.png" alt="Count Plot for Categorical Variables vs Target" />
 </p>
 
 This visual summarizes how Cloud Cover, Season, and Location relate to Weather Type. Overcast skies and winter months are clearly linked to snowy conditions, while clear skies dominate sunny days. Mountainous areas also show more snowy weather. This chart effectively displays how categorical features influence classification.
